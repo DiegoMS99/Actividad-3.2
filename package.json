@@ -1,0 +1,28 @@
+{
+  "name": "actividad-3.2",
+  "version": "1.0.0",
+  "description": "Aprender a usar una Base de datos con Nodejs & Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Diego",
+    "Martinez",
+    "UVM",
+    "Nodejs",
+    "Edgard",
+    "Backend"
+  ],
+  "author": "Diego Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql-await": "^2.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
+  }
+}
